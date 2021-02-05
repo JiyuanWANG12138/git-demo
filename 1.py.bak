@@ -1,7 +1,8 @@
 a=1
 #I went back to change1
 <<<<<<< HEAD
-#Edited in Master
+#Edited in Master and dev
 =======
 #Edited in Dev
->>>>>>> dev
+#lovely boss
+>>>>>>> boss
