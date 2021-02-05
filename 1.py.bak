@@ -1,8 +1,10 @@
 a=1
 #I went back to change1
-<<<<<<< HEAD
+<<<<<<< Updated upstream
 #Edited in Master and dev
+#lovely boss
 =======
 #Edited in Dev
-#lovely boss
->>>>>>> boss
+#Edited in Master
+#Feel happy
+>>>>>>> Stashed changes
